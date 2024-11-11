@@ -89,8 +89,54 @@ Il GDPR si applica a tutte le aziende che trattano i dati personali dei resident
 
 - Livello 1: violazioni gravi (es. raccolta non autorizzata), con multe fino al 4% del fatturato annuo o 20 milioni di euro.
 - Livello 2: violazioni minori (es. mancata notifica di violazione), con multe fino al 2% del fatturato o 10 milioni di euro.
-  
+
+
 ### Standard di Sicurezza dei Dati per le Carte di Pagamento (PCI DSS)
 Il PCI DSS tutela le transazioni con carte di pagamento per prevenire frodi e furti di dati. Creato dai principali circuiti di pagamento, richiede misure di sicurezza come firewall per le applicazioni web e crittografia per proteggere le informazioni dei titolari di carte.
-<img width="639" alt="Screenshot 2024-11-11 alle 15 54 15" src="https://github.com/user-attachments/assets/cfa39d5d-b147-47ad-9a1c-3fb752b69e65">
 
+### NIST 800-53 
+NIST 800-53 è una pubblicazione del National Institute of Standards and Technology (NIST) che fornisce un set di controlli di sicurezza e privacy per proteggere la confidenzialità, l'integrità e la disponibilità (CIA) dei sistemi informativi. Organizza i controlli in 20 famiglie, affrontando minacce come attacchi, errori, disastri e problemi di privacy. La Gestione del Programma è un controllo cruciale che richiede l'implementazione di programmi di sicurezza e privacy a livello organizzativo, con monitoraggio continuo.
+
+Best practices per la conformità includono la catalogazione degli asset, la mappatura dei controlli NIST agli asset e rischi identificati, la creazione di una struttura di governance, e il monitoraggio continuo per garantire l’efficacia dei controlli.
+
+NIST 800-63B fornisce linee guida per la gestione sicura dell'identità digitale, con raccomandazioni per l'autenticazione e la verifica degli utenti tramite password, biometria e token, garantendo la protezione delle credenziali. Questi controlli aiutano le organizzazioni a migliorare la sicurezza e a garantire la conformità alle normative.
+
+_____
+# Gestione della Sicurezza Informatica e Conformità
+
+La gestione della sicurezza informatica (IS) comprende la pianificazione strategica, l'esecuzione e l'amministrazione continua delle misure di sicurezza per proteggere gli asset informatici da accessi non autorizzati, utilizzo, divulgazione, interruzione, alterazione e distruzione. Questo include la valutazione e l'identificazione dei rischi, lo sviluppo di controlli e procedure di sicurezza, la pianificazione della risposta agli incidenti e la formazione sulla consapevolezza della sicurezza. Al contrario, la conformità si riferisce all'osservanza delle normative legali, regolamentari, contrattuali e specifiche del settore in materia di sicurezza informatica.
+
+### ISO/IEC 27001
+
+ISO 27001 è uno standard internazionale riconosciuto per la pianificazione, lo sviluppo, l'implementazione e l'aggiornamento del Sistema di Gestione della Sicurezza delle Informazioni (ISMS) di un'organizzazione. I componenti principali includono:
+- **Ambito**: definisce i confini dell'ISMS, compresi gli asset e i processi coperti.
+- **Politica di sicurezza delle informazioni**: un documento di alto livello che definisce l'approccio dell'organizzazione alla sicurezza delle informazioni.
+- **Valutazione del rischio**: identificazione e valutazione dei rischi per la riservatezza, integrità e disponibilità delle informazioni.
+- **Trattamento del rischio**: selezione e implementazione di controlli per ridurre i rischi a un livello accettabile.
+- **Dichiarazione di applicabilità (SoA)**: documento che specifica quali controlli dello standard sono applicabili.
+Audit interno: verifica periodica dell'ISMS per garantirne l'efficacia.
+- **Revisione della direzione**: valutazione delle performance dell'ISMS a intervalli regolari.
+
+### Vantaggi di ISO 27001
+La creazione di un ISMS basato su ISO 27001 richiede una progettazione e implementazione accurata. Ciò implica una valutazione approfondita delle procedure di sicurezza, la rilevazione di lacune e la valutazione dei rischi. Il supporto della leadership e l'allocazione delle risorse sono cruciali per il successo dell'implementazione. Il monitoraggio regolare e il miglioramento continuo sono fondamentali per garantire l'efficacia e l'allineamento dell'ISMS agli obiettivi dell'organizzazione.
+
+### Service Organisation Control 2 (SOC 2)
+SOC 2 è un framework di conformità/audit sviluppato dall'American Institute of Certified Public Accountants (AICPA), focalizzato sulla valutazione dell'efficacia della sicurezza dei dati basata sulla triade CIA (Confidentiality, Integrity, Availability). SOC 2 rassicura clienti, stakeholder e partner aziendali sul fatto che l'azienda ha implementato controlli sufficienti per proteggere i propri sistemi, dati e informazioni sensibili.
+
+### Cardini Importanti di SOC 2
+SOC 2 è un standard di audit che valuta l'efficacia dei controlli di un'organizzazione di servizi riguardo la riservatezza, disponibilità, integrità e privacy. Gli auditor indipendenti conducono gli audit SOC 2 per verificare che i controlli di sicurezza soddisfino i criteri pertinenti. I rapporti SOC 2 forniscono informazioni utili su come un'organizzazione di servizi gestisce la sicurezza e la privacy dei dati. Ad esempio, una società di cloud computing può subire un audit SOC 2 per dimostrare che ha implementato controlli adeguati per proteggere i dati dei clienti archiviati sui propri server.
+
+### Cosa Protegge la Sicurezza delle Informazioni con SOC 2
+Lo scopo principale dell'audit SOC 2 è garantire che i fornitori di servizi di terze parti archiviino e trattino le informazioni sensibili in modo sicuro.
+
+### Pianificazione e Sostenimento di un Audit SOC 2
+I seguenti passaggi sono necessari prima e durante un audit SOC 2:
+- **Determinare l'ambito**: comprendere i sistemi, processi o luoghi rilevanti per la sicurezza dei dati.
+- **Selezionare un auditor**: scegliere un auditor qualificato con esperienza nelle aziende finanziarie.
+- **Pianificare l'audit**: lavorare con l'auditor per pianificare l'audit, compreso il cronoprogramma e i criteri di audit.
+- **Prepararsi per l'audit**: rivedere i controlli di sicurezza e privacy, identificare eventuali lacune e sviluppare un piano per affrontarle.
+- **Condurre l'audit**: l'auditor esaminerà i controlli e testerà la loro efficacia.
+- **Ricevere il rapporto di audit**: dopo l'audit, l'auditor fornirà un rapporto con i risultati, le lacune riscontrate e le raccomandazioni per il miglioramento.
+
+### Controlli Generici Durante un Audit SOC 2
+I controlli generici che verranno verificati includono la sicurezza dei dati in transito, la sicurezza della rete, la gestione degli incidenti e altro ancora.
