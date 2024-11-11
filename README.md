@@ -53,6 +53,8 @@ Ecco i passaggi generali per sviluppare politiche, standard, linee guida, e simi
 **5. Implementazione e comunicazione:** Condividere il documento con i dipendenti e assicurarsi che comprendano i loro ruoli. Offrire formazione per garantirne l’aderenza.
 **6. Revisione e aggiornamento:** Rivedere periodicamente il documento per mantenerlo rilevante, modificandolo in base a feedback o cambiamenti normativi.
 
+<img width="435" alt="Screenshot 2024-11-11 alle 17 17 00" src="https://github.com/user-attachments/assets/945991b1-b6b5-4ce9-88be-e77b8d6a175d">
+
 
 
 ### Framework GRC (Governance, Risk, Compliance) nella Sicurezza delle Informazioni
@@ -61,6 +63,8 @@ Il framework GRC integra governance, gestione del rischio e conformità per gest
 - **Governance**: Impostare la direzione strategica dell’organizzazione attraverso politiche, standard e monitoraggio delle prestazioni per garantire la sicurezza delle informazioni.
 - **Gestione del Rischio**: Identificare, valutare e mitigare i rischi, implementando controlli e strategie di gestione per mantenere la sicurezza.
 - **Conformità**: Assicurare che l’organizzazione rispetti leggi, regolamenti e standard del settore, con programmi di conformità, audit regolari e report per gli stakeholder.
+
+<img width="446" alt="Screenshot 2024-11-11 alle 17 16 10" src="https://github.com/user-attachments/assets/cf332c58-7200-4275-bacb-af6ff792444f">
 
 
 ### Linee Guida per Sviluppare un Programma GRC
@@ -101,6 +105,9 @@ Best practices per la conformità includono la catalogazione degli asset, la map
 
 NIST 800-63B fornisce linee guida per la gestione sicura dell'identità digitale, con raccomandazioni per l'autenticazione e la verifica degli utenti tramite password, biometria e token, garantendo la protezione delle credenziali. Questi controlli aiutano le organizzazioni a migliorare la sicurezza e a garantire la conformità alle normative.
 
+<img width="979" alt="Screenshot 2024-11-11 alle 17 14 46" src="https://github.com/user-attachments/assets/c56e329e-77c2-49e1-a9a8-2f833a7caa9e">
+
+
 _____
 # Gestione della Sicurezza Informatica e Conformità
 
@@ -119,6 +126,9 @@ Audit interno: verifica periodica dell'ISMS per garantirne l'efficacia.
 
 ### Vantaggi di ISO 27001
 La creazione di un ISMS basato su ISO 27001 richiede una progettazione e implementazione accurata. Ciò implica una valutazione approfondita delle procedure di sicurezza, la rilevazione di lacune e la valutazione dei rischi. Il supporto della leadership e l'allocazione delle risorse sono cruciali per il successo dell'implementazione. Il monitoraggio regolare e il miglioramento continuo sono fondamentali per garantire l'efficacia e l'allineamento dell'ISMS agli obiettivi dell'organizzazione.
+
+<img width="967" alt="Screenshot 2024-11-11 alle 17 13 34" src="https://github.com/user-attachments/assets/8cc17f47-7cce-44cf-88ff-d9b53d078d7f">
+
 
 ### Service Organisation Control 2 (SOC 2)
 SOC 2 è un framework di conformità/audit sviluppato dall'American Institute of Certified Public Accountants (AICPA), focalizzato sulla valutazione dell'efficacia della sicurezza dei dati basata sulla triade CIA (Confidentiality, Integrity, Availability). SOC 2 rassicura clienti, stakeholder e partner aziendali sul fatto che l'azienda ha implementato controlli sufficienti per proteggere i propri sistemi, dati e informazioni sensibili.
@@ -140,3 +150,5 @@ I seguenti passaggi sono necessari prima e durante un audit SOC 2:
 
 ### Controlli Generici Durante un Audit SOC 2
 I controlli generici che verranno verificati includono la sicurezza dei dati in transito, la sicurezza della rete, la gestione degli incidenti e altro ancora.
+
+<img width="378" alt="Screenshot 2024-11-11 alle 17 12 37" src="https://github.com/user-attachments/assets/e3c3432e-f5c9-42c7-9005-6582dbc1ab06">
